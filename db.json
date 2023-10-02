@@ -1,4 +1,4 @@
-[
+{"products": [
     {
       "_id": 1,
       "model": "AMD Ryzen 5 5600X Gaming PC",
@@ -76,4 +76,4 @@
         }
       ]
     }
-  ]
+  ]}
